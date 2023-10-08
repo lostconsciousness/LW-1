@@ -1,0 +1,8 @@
+E:\ХНУРЕ (2курс)\C#\Trushchenko_LW№1\Trushchenko_LW№1\obj\Debug\Trushchenko_LW№1.csproj.AssemblyReference.cache
+E:\ХНУРЕ (2курс)\C#\Trushchenko_LW№1\Trushchenko_LW№1\obj\Debug\Trushchenko_LW№1.csproj.SuggestedBindingRedirects.cache
+E:\ХНУРЕ (2курс)\C#\Trushchenko_LW№1\Trushchenko_LW№1\obj\Debug\Trushchenko_LW№1.csproj.CoreCompileInputs.cache
+E:\ХНУРЕ (2курс)\C#\Trushchenko_LW№1\Trushchenko_LW№1\bin\Debug\Trushchenko_LW№1.exe.config
+E:\ХНУРЕ (2курс)\C#\Trushchenko_LW№1\Trushchenko_LW№1\bin\Debug\Trushchenko_LW№1.exe
+E:\ХНУРЕ (2курс)\C#\Trushchenko_LW№1\Trushchenko_LW№1\bin\Debug\Trushchenko_LW№1.pdb
+E:\ХНУРЕ (2курс)\C#\Trushchenko_LW№1\Trushchenko_LW№1\obj\Debug\Trushchenko_LW№1.exe
+E:\ХНУРЕ (2курс)\C#\Trushchenko_LW№1\Trushchenko_LW№1\obj\Debug\Trushchenko_LW№1.pdb
